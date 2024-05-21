@@ -1,5 +1,5 @@
 .next
-.pnpm
+.yarn
 dist
 node_modules
 README.md
